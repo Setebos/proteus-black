@@ -1,6 +1,6 @@
 # Proteus Black
 
-Interfaces créées pour le court-métrage "Proteus Black", réalisé pour le concours "48 heures plus tard" 2018 dans le cadre du festival "Les Intergalactiques".
+Interfaces créées pour le court-métrage "Proteus Black", réalisé pour le concours "[48 heures plus tard](http://www.intergalactiques.net/48-heures-plus-tard-2018/)" 2018 dans le cadre du festival "Les Intergalactiques".
 
 Deux sites ont été créés (une interface technique et une interface client) pour obtenir les écrans suivants :
 
